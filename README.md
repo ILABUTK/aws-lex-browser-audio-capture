@@ -4,4 +4,7 @@ An example web application using the Lex JavaScript SDK to send and receive audi
 A detailed guide to the example code can be found [here](https://aws.amazon.com/blogs/ai/capturing-voice-input-in-a-browser/).
 
 ##XP Run on a server.
+
 > php -S localhost:3000 -t .
+
+> configures to add a Lex bot on console. Added a group and assigned to sfmuser. 
